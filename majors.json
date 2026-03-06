@@ -1,0 +1,172 @@
+[
+  {
+    "name": "الذكاء الاصطناعي",
+    "domain": "تقني",
+    "saturation_risk": "منخفض",
+    "explanation": "لأن لديك ميول تحليلية وتقنية قوية مع اهتمام بحل المشكلات الذكية.",
+    "skills": ["الرياضيات", "البرمجة", "تحليل البيانات", "النمذجة الذكية"],
+    "jobs": ["AI Engineer", "ML Engineer", "Data Scientist"],
+    "discovery": ["تعلم Python", "جرب مشروع ML بسيط", "تعرف على مفاهيم الذكاء الاصطناعي"],
+    "profile": {
+      "math": 5,
+      "analysis": 5,
+      "technology": 5,
+      "creativity": 3,
+      "human": 1,
+      "management": 2
+    }
+  },
+  {
+    "name": "هندسة البرمجيات",
+    "domain": "تقني",
+    "saturation_risk": "متوسط",
+    "explanation": "لأن لديك ميول واضحة للبرمجة وبناء الأنظمة.",
+    "skills": ["البرمجة", "الخوارزميات", "تصميم الأنظمة"],
+    "jobs": ["Software Engineer", "Backend Developer", "Full Stack Developer"],
+    "discovery": ["تعلم Python", "تعلم Git", "بناء تطبيق بسيط"],
+    "profile": {
+      "math": 4,
+      "analysis": 4,
+      "technology": 5,
+      "creativity": 2,
+      "human": 1,
+      "management": 2
+    }
+  },
+  {
+    "name": "علوم الحاسب",
+    "domain": "تقني",
+    "saturation_risk": "متوسط",
+    "explanation": "لأن لديك اهتمام قوي بالأنظمة والتقنيات الرقمية.",
+    "skills": ["الخوارزميات", "البرمجة", "بنية الحاسوب"],
+    "jobs": ["Systems Engineer", "Software Engineer", "Cloud Engineer"],
+    "discovery": ["تعلم أساسيات البرمجة", "تعلم هياكل البيانات"],
+    "profile": {
+      "math": 4,
+      "analysis": 4,
+      "technology": 5,
+      "creativity": 2,
+      "human": 1,
+      "management": 2
+    }
+  },
+  {
+    "name": "التصميم الجرافيكي",
+    "domain": "إبداعي",
+    "saturation_risk": "متوسط",
+    "explanation": "لديك ميول إبداعية وبصرية واضحة.",
+    "skills": ["التصميم", "الإبداع", "الهوية البصرية"],
+    "jobs": ["Graphic Designer", "UI Designer", "Brand Designer"],
+    "discovery": ["تعلم Photoshop", "تعلم Figma"],
+    "profile": {
+      "math": 1,
+      "analysis": 2,
+      "technology": 2,
+      "creativity": 5,
+      "human": 2,
+      "management": 1
+    }
+  },
+  {
+    "name": "إدارة الأعمال",
+    "domain": "أعمال",
+    "saturation_risk": "متوسط",
+    "explanation": "لديك ميول قيادية وتنظيمية.",
+    "skills": ["القيادة", "التخطيط", "التحليل المالي"],
+    "jobs": ["Business Analyst", "Project Manager", "Entrepreneur"],
+    "discovery": ["تعلم أساسيات الإدارة", "قراءة كتب ريادة الأعمال"],
+    "profile": {
+      "math": 2,
+      "analysis": 3,
+      "technology": 2,
+      "creativity": 2,
+      "human": 3,
+      "management": 5
+    }
+  },
+  {
+    "name": "علم النفس",
+    "domain": "إنساني",
+    "saturation_risk": "منخفض",
+    "explanation": "لديك اهتمام بفهم سلوك الإنسان والتواصل معه.",
+    "skills": ["التواصل", "التحليل السلوكي", "الاستماع"],
+    "jobs": ["Psychologist", "HR Specialist", "Counselor"],
+    "discovery": ["قراءة كتب علم النفس", "تعلم مهارات التواصل"],
+    "profile": {
+      "math": 1,
+      "analysis": 2,
+      "technology": 1,
+      "creativity": 2,
+      "human": 5,
+      "management": 2
+    }
+  },
+  {
+    "name": "الأمن السيبراني",
+    "domain": "تقني",
+    "saturation_risk": "منخفض",
+    "explanation": "لديك اهتمام بحماية الأنظمة الرقمية وتحليل المخاطر.",
+    "skills": ["الشبكات", "تحليل الاختراق", "الأمن المعلوماتي"],
+    "jobs": ["Cybersecurity Analyst", "Penetration Tester", "Security Engineer"],
+    "discovery": ["تعلم الشبكات", "تعلم Linux", "جرب مختبرات اختراق"],
+    "profile": {
+      "math": 3,
+      "analysis": 5,
+      "technology": 5,
+      "creativity": 2,
+      "human": 1,
+      "management": 2
+    }
+  },
+  {
+    "name": "تحليل البيانات",
+    "domain": "تقني",
+    "saturation_risk": "منخفض",
+    "explanation": "لديك قدرة جيدة على تحليل الأرقام واستخلاص الأنماط.",
+    "skills": ["الإحصاء", "تحليل البيانات", "Python"],
+    "jobs": ["Data Analyst", "Business Intelligence Analyst"],
+    "discovery": ["تعلم Excel", "تعلم Python", "جرب تحليل Dataset"],
+    "profile": {
+      "math": 5,
+      "analysis": 5,
+      "technology": 4,
+      "creativity": 2,
+      "human": 1,
+      "management": 2
+    }
+  },
+  {
+    "name": "التسويق الرقمي",
+    "domain": "أعمال",
+    "saturation_risk": "متوسط",
+    "explanation": "لديك ميول للتواصل مع الجمهور وتحليل السوق.",
+    "skills": ["التسويق", "تحليل السوق", "إدارة الحملات"],
+    "jobs": ["Digital Marketer", "Growth Marketer", "Content Strategist"],
+    "discovery": ["تعلم SEO", "إدارة حملات إعلانية"],
+    "profile": {
+      "math": 2,
+      "analysis": 3,
+      "technology": 2,
+      "creativity": 4,
+      "human": 4,
+      "management": 3
+    }
+  },
+  {
+    "name": "الهندسة المدنية",
+    "domain": "هندسي",
+    "saturation_risk": "متوسط",
+    "explanation": "لديك ميول للعمل في المشاريع الهندسية والبنية التحتية.",
+    "skills": ["الرياضيات", "التصميم الهندسي", "إدارة المشاريع"],
+    "jobs": ["Civil Engineer", "Project Engineer"],
+    "discovery": ["تعلم AutoCAD", "تعلم أساسيات الهندسة المدنية"],
+    "profile": {
+      "math": 5,
+      "analysis": 4,
+      "technology": 3,
+      "creativity": 2,
+      "human": 1,
+      "management": 3
+    }
+  }
+]
